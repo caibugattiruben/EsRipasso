@@ -1,0 +1,14 @@
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\esPreparazioneVerifica\esPreparazioneVerifica\bin\Debug\net7.0\esPreparazioneVerifica.exe
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\esPreparazioneVerifica\esPreparazioneVerifica\bin\Debug\net7.0\esPreparazioneVerifica.deps.json
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\esPreparazioneVerifica\esPreparazioneVerifica\bin\Debug\net7.0\esPreparazioneVerifica.runtimeconfig.json
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\esPreparazioneVerifica\esPreparazioneVerifica\bin\Debug\net7.0\esPreparazioneVerifica.dll
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\esPreparazioneVerifica\esPreparazioneVerifica\bin\Debug\net7.0\esPreparazioneVerifica.pdb
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\esPreparazioneVerifica\esPreparazioneVerifica\obj\Debug\net7.0\esPreparazioneVerifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\esPreparazioneVerifica\esPreparazioneVerifica\obj\Debug\net7.0\esPreparazioneVerifica.AssemblyInfoInputs.cache
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\esPreparazioneVerifica\esPreparazioneVerifica\obj\Debug\net7.0\esPreparazioneVerifica.AssemblyInfo.cs
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\esPreparazioneVerifica\esPreparazioneVerifica\obj\Debug\net7.0\esPreparazioneVerifica.csproj.CoreCompileInputs.cache
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\esPreparazioneVerifica\esPreparazioneVerifica\obj\Debug\net7.0\esPreparazioneVerifica.dll
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\esPreparazioneVerifica\esPreparazioneVerifica\obj\Debug\net7.0\refint\esPreparazioneVerifica.dll
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\esPreparazioneVerifica\esPreparazioneVerifica\obj\Debug\net7.0\esPreparazioneVerifica.pdb
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\esPreparazioneVerifica\esPreparazioneVerifica\obj\Debug\net7.0\esPreparazioneVerifica.genruntimeconfig.cache
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\esPreparazioneVerifica\esPreparazioneVerifica\obj\Debug\net7.0\ref\esPreparazioneVerifica.dll
